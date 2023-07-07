@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "Coffee",
+    "price": 2.5,
+    "imgUrl": "/images/coffee.jpg",
+    "description": "Our classic coffee blend offers a bold and invigorating flavor that will awaken your taste buds. Enjoy the perfect balance of smoothness and strength in every sip."
+  },
+  {
+    "id": 2,
+    "name": "Iced Coffee",
+    "price": 3.25,
+    "imgUrl": "/images/iced-coffee.jpg",
+    "description": "Beat the heat with our refreshing Iced Coffee. Brewed to perfection and served chilled, it's the perfect way to cool down while enjoying the robust flavors of our premium coffee."
+  },
+  {
+    "id": 3,
+    "name": "Latte",
+    "price": 5.25,
+    "imgUrl": "/images/latte.jpg",
+    "description": "Indulge in the creamy delight of our signature Latte. This velvety concoction combines rich espresso with steamed milk for a luxurious and satisfying experience. Ask about our syrups..."
+  },
+  {
+    "id": 4,
+    "name": "Matcha Latte",
+    "price": 5.5,
+    "imgUrl": "/images/matcha-latte.jpg",
+    "description": "Experience the serene and vibrant flavors of our matcha latte, a true delight for tea lovers. Our matcha latte is made with finely ground Japanese green tea powder, known as matcha, carefully whisked to create a smooth and frothy beverage."
+  },
+  {
+    "id": 5,
+    "name": "Doppio",
+    "price": 2.25,
+    "imgUrl": "/images/espresso.jpg",
+    "description": "For those who crave a strong caffeine kick, our Doppio delivers a double shot of espresso. This intense and aromatic brew will keep you energized and focused throughout the day."
+  },
+  {
+    "id": 6,
+    "name": "Croissant",
+    "price": 2.0,
+    "imgUrl": "/images/croissant.jpg",
+    "description": "Indulge in the buttery and flaky goodness of our freshly baked croissants. Made with layers of delicate pastry, each bite is a perfect balance of crispy exterior and soft, airy interior."
+  },
+  {
+    "id": 7,
+    "name": "Blueberry Muffin",
+    "price": 1.75,
+    "imgUrl": "/images/blueberry-muffins.jpg",
+    "description": "Sink your teeth into the heavenly goodness of our blueberry muffins. Bursting with plump and juicy blueberries, each bite is a delightful explosion of fruity flavors."
+  },
+  {
+    "id": 8,
+    "name": "Egg Tart",
+    "price": 1.0,
+    "imgUrl": "/images/egg-tarts.jpg",
+    "description": "Treat yourself to the delectable indulgence of our egg tarts. These delicate pastries feature a buttery, flaky crust that cradles a smooth, creamy custard filling."
+  },
+  {
+    "id": 9,
+    "name": "Avocado Toast",
+    "price": 6.75,
+    "imgUrl": "/images/avocado-toast.jpg",
+    "description": "Experience a delightful and nutritious culinary creation with our avocado toast. We take artisanal bread, toasted to golden perfection, and generously spread it with ripe, creamy avocados."
+  }
+]

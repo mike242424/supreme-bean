@@ -1,0 +1,13 @@
+span,
+h5,
+h1 {
+  color: #45392c;
+}
+
+.homepage-container {
+  background-image: url("../images/coffee-beans.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  min-height: 100vh;
+}
