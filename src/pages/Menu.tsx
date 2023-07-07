@@ -1,6 +1,6 @@
 import { Card, Col, Container, Row } from "react-bootstrap";
 import storeItems from "../data/items.json";
-import { formatCurrency } from "../utlities/formatCurrency";
+import { formatCurrency } from "../utilities/formatCurrency";
 
 const Menu = (): JSX.Element => {
   return (
