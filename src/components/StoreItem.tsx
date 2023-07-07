@@ -1,4 +1,4 @@
-import { Button, Card, Col, Container, Row } from "react-bootstrap";
+import { Button, Card, Col, Row } from "react-bootstrap";
 import { formatCurrency } from "../utlities/formatCurrency";
 import { useShoppingCart } from "../context/ShoppingCartContext";
 
