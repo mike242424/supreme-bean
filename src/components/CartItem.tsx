@@ -39,7 +39,7 @@ const CartItem = ({ id, quantity }: CartIdProps): JSX.Element | null => {
             className="btn-danger"
             onClick={() => removeFromCart(storeItem.id)}
           >
-            Remove All
+            Remove
           </Button>
         </Col>
       </Row>
